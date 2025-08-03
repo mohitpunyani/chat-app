@@ -5,6 +5,10 @@
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
+
+
+## Run Locally
+
 Clone the project
 
 ```bash
